@@ -8,3 +8,13 @@
     background: rgba(0, 0, 0, 0.25);
     border-radius: 8px;
 }
+
+.explore-bg-color {
+    background-color: #F4FAFD;
+}
+
+.img-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
